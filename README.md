@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zeus0source
+- 👋 Hi, I’m Yash Rastogi
 - 👀 I’m interested in making projects and solving problems
 - 🌱 I’m currently learning programming in C++ 
 - 💞️ I’m looking to collaborate on various projects
