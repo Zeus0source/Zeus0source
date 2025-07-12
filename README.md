@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zeus0source
 - 👀 I’m interested in making projects and solving problems
-- 🌱 I’m currently learning programming in c and kotlin
+- 🌱 I’m currently learning programming in C++ 
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me using my personal mail id 
 - 😄 Pronouns: he/him
